@@ -1,4 +1,3 @@
-
 ## Contents
 
 The notebook covers the following topics:
